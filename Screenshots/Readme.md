@@ -11,17 +11,12 @@
 
 ### 🚀 Week 2 Project | Networkwalks Internship (`Batch B084A`)
 
-![Penetration Testing](https://shields.io)
-![Kali Linux](https://shields.io)
-
-![Maltego OSINT](https://shields.io)
-![Zenmap](https://shields.io)
-
-![Footprinting](https://shields.io)
-![Network Scanning](https://shields.io)
-
-![Cybersecurity](https://shields.io)
-![Week 2 Project](https://shields.io)
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Maltego-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-success?style=for-the-badge">
+</p>
 
 *Footprinting Public Infrastructure | Visual OSINT Mapping | Active LAN Discovery*
 
